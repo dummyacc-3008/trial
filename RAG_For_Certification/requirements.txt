@@ -1,0 +1,12 @@
+faiss-cpu
+sentence-transformers
+PyMuPDF
+google-generativeai
+fastapi
+uvicorn
+python-dotenv
+streamlit
+sentence-transformers
+faiss-cpu
+groq
+numpy
